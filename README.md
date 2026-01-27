@@ -4,7 +4,9 @@
 - 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas(ADS) no IFPB / 6° Período
 - 🌱 Estudando e me aprofundando no universo Java
 - 📫 Fale comigo no email: kaikaciole1.0@gmail.com
-- 👉 Minhas redes: Linkedin: <a href="www.linkedin.com/in/kaikaciole01">/in/kaikaciole01</a> ---- Instagram: <a href="https://www.instagram.com/kaik_aciole/">@dev.aciole</a>
+- 👉 Minhas redes:
+     - Linkedin: <a href="www.linkedin.com/in/kaikaciole01">/in/kaikaciole01</a>
+     - Instagram: <a href="https://www.instagram.com/kaik_aciole/">@dev.aciole</a>
 
 <p></p>
 
