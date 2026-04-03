@@ -1,22 +1,35 @@
-### Olá, eu sou Kaik Aciole! 👋
+<div align="center">
+  <h2>Olá, eu sou Kaik Aciole! 👋</h2>
+  <img src="https://komarev.com/ghpvc/?username=KaikAciole&color=blue" alt="Profile views" />
+</div>
 
+---
 
-- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas(ADS) no IFPB / 6° Período
-- 🌱 Estudando e me aprofundando no universo Java
-- 📫 Fale comigo no email: kaikaciole1.0@gmail.com
-- 👉 Minhas redes:
-     - Linkedin: <a href="www.linkedin.com/in/kaikaciole01">/in/kaikaciole01</a>
-     - Instagram: <a href="https://www.instagram.com/kaik_aciole/">@dev.aciole</a>
+### 🚀 Sobre mim
 
-<p></p>
+<ul>
+     <li>🔭 Atualmente atuando no laboratório <b>IDE.IA</b> com desenvolvimento Full Stack e cursando o 6º período de Análise e Desenvolvimento de Sistemas (ADS) no <b>IFPB</b>.</li>
+     <li>💻 Tenho experiência sólida construindo aplicações com <b>Java, Spring Boot, React, Angular</b>, entre outras tecnologias.</li>
+     <li>🎨 Sou apaixonado por <b>desenvolvimento web completo</b>. Gosto de projetar boas APIs e arquiteturas no Back-End e integrá-las com interfaces visuais bem elaboradas e interativas no Front-End.</li>
+     <li>🌱 Sempre estudando e me aprofundando no universo <b>Java</b> (inclusive compartilhando meus estudos e projetos em vídeo!).</li>
+     <li>📫 Vamos nos conectar? Me chame no <a href="https://www.linkedin.com/in/kaikaciole01">LinkedIn</a>, <a href="https://www.instagram.com/kaik_aciole/">Instagram</a> ou por <a href="mailto:kaikaciole1.0@gmail.com">E-mail</a>.</li>
+</ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikAciole&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikAciole&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+<br/>
 
-### Tecnologias
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,html,css,postgres,python,github,nest,next,angular,kafka,rabbitmq,mysql,mongodb,docker,git,linux&perline=14" />
+  </a>
+</p>
+</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<br/>
+
+<div align="center">
+  <h3>📊 Minhas Estatísticas</h3>
+  <p>
+    <img align="center" src="https://github-readme-stats.shion.dev/api?username=KaikAciole&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KaikAciole&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+  </p>
 </div>
